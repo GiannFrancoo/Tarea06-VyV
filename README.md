@@ -4,7 +4,7 @@
  
  *Casos implementados*
  
- - Verificar login no valido (TC 1)
+ - Credenciales incorrectas - Verificar login no válido (TC 1) (TC 1)
  - Desloguearse correctamente (TC 2)
  
  
